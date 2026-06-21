@@ -30,7 +30,7 @@ Email Me 👉 ✉️ **rajansingh3261@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SPARROW-3261&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=SPARROW-3261&theme=onedark&no-frame=true&margin-w=15)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
