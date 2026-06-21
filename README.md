@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **rajansingh3261@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rajansingh3261@gmail.com
 - 😄 **Pronouns:** Rajan kumar
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Data and Data Loves Me
 
 ## 🔗 I am a Data Analyst. 😊😊
 ## 🌐 Socials:
